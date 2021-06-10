@@ -2,3 +2,4 @@ hi this is my sample file updating it.
 ssss
 changes in masteR
 changes in branch newbranch2
+updating on bit remote repo
