@@ -1,5 +1,6 @@
-hi this is my sample file updating it.
-ssss
+hi this is my sample file updating it
+sss
 changes in masteR
 changes in branch newbranch2
 updating on remote repo directly
+updating on bit remote repo
